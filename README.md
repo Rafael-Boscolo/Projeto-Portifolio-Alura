@@ -9,7 +9,10 @@ Projeto desenvolvido com o curso da Alura + One T6, nesse projeto aperfeiçoamos
 - CSS
 - Figma
 
-## Lnks:
+## Links:
 [:link: Figma do Projeto](https://www.figma.com/file/4EKKCbr5rS93RWP7kRjXIz/Portfolio---Curso-1?type=design&node-id=0-1&mode=design&t=NxA0dSiTYCDKxkaQ-0)
 
 [:link: Link do Projeto](https://projeto-portifolio-alura-three.vercel.app/)
+
+## Sonre o Projeto
+Feito durante o curso da turma 6 da Alura
